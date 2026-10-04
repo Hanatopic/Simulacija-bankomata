@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bankomat.vcxproj" Id="be825892-143d-4309-836c-37667248447c" />
+</Solution>
